@@ -1,0 +1,35 @@
+[
+    {
+        "name": "php-util/autoload-search",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://gitlab.com/php-util/autoload-search.git",
+            "reference": "2ee28ea0d55928165f7a77a91a28c25ecd5d4b34"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://gitlab.com/api/v4/projects/php-util%2Fautoload-search/repository/archive.zip?sha=2ee28ea0d55928165f7a77a91a28c25ecd5d4b34",
+            "reference": "2ee28ea0d55928165f7a77a91a28c25ecd5d4b34",
+            "shasum": ""
+        },
+        "time": "2019-03-17T20:58:28+00:00",
+        "bin": [
+            "autoload-search.php"
+        ],
+        "type": "library",
+        "installation-source": "source",
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "description": "Search for Composer vendor/autoload.php",
+        "keywords": [
+            "autoload.php",
+            "cli",
+            "composer",
+            "snowyowl"
+        ]
+    }
+]
